@@ -40,7 +40,8 @@
 
 ## Glad to see you here! 🙂
 
-I'm Shashwat, a 20-year-old Computer Science student at LPU Online with a burning passion for Computer Science.           
+I'm Shashwat, a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com)
+with a burning passion for Computer Science.           
 I'm a tech enthusiast who loves to code and build. When I'm not solving problems, I'm usually diving into the latest tech trends and innovations.
 
 <h3> Here's what I'm all about </h3>
