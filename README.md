@@ -60,13 +60,20 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 ## ⏱️ My Coding Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=highcontrast&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=highcontrast" alt="GitHub Streak" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="imnotshashwat" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=highcontrast&locale=en" alt="imnotshashwat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=highcontrast" alt="imnotshashwat" /></p>
 
 
 
