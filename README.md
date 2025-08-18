@@ -54,13 +54,19 @@ I'm a tech enthusiast who loves to code and build. When I'm not solving problems
 Feel free to connect and let's build something awesome together! ✨
 
 
-<h3> 🤝 Let's Connect </h3>
+### 🤝 Let's Connect 
 
+    
+<p align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Imnotshashwat)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Imnotshashwat)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Imnotshashwat)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Imnotshashwat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Imnotshashwat)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Imnotshashwat)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/imnotshashwat)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Imnotshashwat)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Imnotshashwat)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/stdeternal)
+
+</p>
 
 
 
@@ -124,8 +130,6 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 
 * **[Calculator](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/calculator.py)** - A simple command line calculator that helps you to calculate.
-
-
 
 
 
