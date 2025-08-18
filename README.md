@@ -15,8 +15,14 @@
 
 
 
-<h1 align="center">😎 Hey there! Welcome to My Coding Space 🚀</h1>
+## 😎 Hey there! Welcome to My Coding Space 🚀
 
+<hr>
+<h3 align="left">✨ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+</hr>
 
 
 
@@ -30,22 +36,26 @@
 <img src="https://img.shields.io/badge/Status-Always%20Coding-9400D3?style=for-the-badge&logo=code" alt="Status"/>
 
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/stdeternal)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shashwat-dwivedi-670340259)
 
+### Glad to see you here! 🙂
 
-## 👋 About Me
+I'm Shashwat, a 20-year-old Computer Science student at LPU Online with a burning passion for Computer Science.           
+I'm a tech enthusiast who loves to code and build. When I'm not solving problems, I'm usually diving into the latest tech trends and innovations.
 
-Hey there! I'm Shashwat, a 20-year-old Computer Science student at LPU Online with a burning passion for coding. 
+<h3> Here's what I'm all about </h3>
 
-Here's what I'm all about:
-- 🚀 Currently diving deep into Artificial Intelligence to stay ahead of the curve.
-- 🛡️ Enthusiastically exploring the infinity realm of Cybersecurity (it clicks most of the time!).
-- 🛠️ Always tinkering and building small tools to streamline my daily workflow.
-- 😄 Pronouns: Programmer/He/His/His
+- 🤖 Currently diving deep into Artificial Intelligence to stay ahead of the curve.
+- 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
+- 💻   I love exploring new technologies and building cool stuff.
+- 📰   Reading, writing & watching Tech Stuff whenever possible.
+- 😄 Pronouns: Stranger/He/Him/His
 
 Feel free to connect and let's build something awesome together! ✨
 
 
-<h2 align="left">Connect with me:</h2>
+<h3> 🤝 Let's Connect </h3>
 
 
 <p align="left">
@@ -65,7 +75,7 @@ Feel free to connect and let's build something awesome together! ✨
 </p>
 
 
-I'm constantly exploring new technologies, focusing on **Cybersecurity** and **Web development**. I love experimenting with code to solve real-world problems.
+I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity** and **Web Development**. I love experimenting with code to improve my coding skills and solve the real-world problems.
 
 
 
@@ -99,7 +109,7 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 
-## 🏆 Achievements
+<h3>🏆 Achievements</h3> 
 
 <p align="center">
   <picture>
@@ -112,7 +122,7 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 
-## My Projects
+## 💡 My Projects
 * **[Expense Tracker Website](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/expense-tracker-website.html)** - A simple website that helps you track your expenses.
 
 
