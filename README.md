@@ -96,18 +96,15 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 
-
 ## 🏆 Achievements
 
-
 <p align="center">
-     <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub">
-         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub">
-         <img src="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub" alt="GitHub Trophies">
-     </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=flat">
+    <img src="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=flat" alt="GitHub Trophies">
+  </picture>
 </p>
-
 
 
 
