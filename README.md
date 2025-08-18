@@ -40,6 +40,7 @@ Here's what I'm all about:
 - 🚀 Currently diving deep into Artificial Intelligence to stay ahead of the curve.
 - 🛡️ Enthusiastically exploring the infinity realm of Cybersecurity (it clicks most of the time!).
 - 🛠️ Always tinkering and building small tools to streamline my daily workflow.
+- 😄 Pronouns: Programmer/He/His/His
 
 Feel free to connect and let's build something awesome together! ✨
 
