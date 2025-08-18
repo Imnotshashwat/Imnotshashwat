@@ -44,10 +44,20 @@ Here's what I'm all about:
 Feel free to connect and let's build something awesome together! ✨
 
 
----
+<h2 align="left">Connect with me:</h2>
+
+
+<p align="left">
+<a href="https://twitter.com/stdeternal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stdeternal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-dwivedi-670340259?hl=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-dwivedi-670340259?hl=en-in" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/imnotshashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imnotshashwat" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/stdeternal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="stdeternal" height="30" width="40" /></a>
+</p>
+
 
 
 ## 🧠 My Skillset
+
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,python,html,css,javascript,github" />
@@ -59,6 +69,7 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 ## ⏱️ My Coding Activity
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Most Used Languages" />
@@ -76,6 +87,7 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 ## 🏆 Achievements
+
 
 <p align="center">
      <picture>
@@ -96,11 +108,5 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stdeternal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stdeternal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-dwivedi-670340259?hl=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-dwivedi-670340259?hl=en-in" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imnotshashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imnotshashwat" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/stdeternal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="stdeternal" height="30" width="40" /></a>
-</p>
+
 
