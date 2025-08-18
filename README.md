@@ -91,7 +91,9 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=dark&locale=en">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=default&locale=en">
-    <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=default
+    <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=default" />
+    </picture>
+</p>
 
 
 
