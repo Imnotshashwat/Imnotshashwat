@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Status-Always%20Coding-9400D3?style=for-the-badge&logo=code" alt="Status"/>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/stdeternal)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Imnotshashwat)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Imnotshashwat)
 
 ### Glad to see you here! 🙂
