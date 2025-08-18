@@ -65,14 +65,12 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=highcontrast&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=highcontrast&locale=en" alt="GitHub Stats" />
+</p>
 
 
 
