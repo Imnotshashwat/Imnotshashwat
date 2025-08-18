@@ -72,16 +72,27 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=dark&locale=en&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact" alt="Most Used Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=dark" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=default">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=default" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=dark&locale=en">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=default&locale=en">
+    <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=default
+
 
 
 
@@ -90,12 +101,13 @@ I'm constantly exploring new technologies, focusing on **Cybersecurity** and **W
 
 
 <p align="center">
-     <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub">
-         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub">
-         <img src="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub" alt="GitHub Trophies">
-     </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=flat">
+    <img src="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=flat" alt="GitHub Trophies">
+  </picture>
 </p>
+
 
 
 
