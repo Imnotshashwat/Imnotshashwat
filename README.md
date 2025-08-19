@@ -49,7 +49,6 @@ I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and workin
 
 
 - 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
-- 🎯 Life Hack: Explore & explode with knowledge.
 - 💬 Ask me about: Science & Technology | Music | Movies/Shows | Reading
 - 🤔 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 - 😄 Pronouns: He/Him/Stranger
@@ -57,7 +56,7 @@ I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and workin
 Feel free to connect and let's build something awesome together! ✨
 
 
-### 🤷 Find me at 
+### 📫 Find me at 
 
     
 <div align="center">
