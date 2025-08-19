@@ -58,7 +58,7 @@ Feel free to connect and let's build something awesome together! ✨
 ### 🤝 Let's Connect 
 
     
-<p align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Imnotshashwat)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Imnotshashwat)
@@ -67,7 +67,7 @@ Feel free to connect and let's build something awesome together! ✨
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Imnotshashwat)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/stdeternal)
 
-</p>
+</div>
 
 
 
