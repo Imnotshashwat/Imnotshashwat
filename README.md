@@ -15,7 +15,8 @@
 
 
 
-## 😎 Hey there! Welcome to My Coding Space 🚀
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hey there! Welcome </h2>
+
 
 > **A programmer was arrested for writing unreadable code. They refused to comment.** 🥲
 > 
