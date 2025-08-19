@@ -7,11 +7,12 @@
     </picture>
 </div>
 
-<!-- Name Prompt -->
+<!-- Code Prompt -->
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=00FFFF&center=true&width=1100&height=100&lines=%3C+SHASHWAT+DWIVEDI+%2F+%3E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=00FFFF&center=true&width=1100&height=100&lines=eat();+sleep();+code();+repeat();)
 </div>
+
 
 
 
@@ -90,7 +91,7 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=dark&locale=en&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=alamimran613&show_icons=true&theme=dark&locale=en&layout=compact">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact" alt="Most Used Languages" />
   </picture>
