@@ -122,10 +122,10 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 
 ## 💡 My Projects
-* **[Expense Tracker Website](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/expense-tracker-website.html)** - A simple website that helps you track your expenses.
+* **[Expense Tracker Website](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/expense-tracker-website.html)** - A simple website that helps you to track your expenses.
 
 
-* **[Calculator](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/calculator.py)** - A simple command line calculator that helps you to calculate.
+* **[Expense Tracker App](https://github.com/Imnotshashwat/bca-first-year-projects/blob/d0eee11de345ab1099c07cd9371ba1fa4407ac31/expense_tracker.py)** - A simple app that helps you to track your expenses.
 
 
 <!-- Snake Game Repo View -->
