@@ -1,8 +1,9 @@
 <!-- Top Border Animation -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Repo%20Realm&fontSize=45&fontAlignY=40&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=welcome,%20repo%20explorer!%20%F0%9F%98%82&fontSize=45&fontAlignY=40&width=1000"/>
 </p>
+
 
 
 <!-- Code Prompt -->
@@ -135,7 +136,8 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thank%20You%20🙂&fontSize=40&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=see%20you%20in%20the%20another%20repo%20%F0%9F%98%82&fontSize=38&fontAlignY=60&width=1000"/>
 </p>
+
 
 
