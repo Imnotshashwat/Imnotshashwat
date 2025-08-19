@@ -17,12 +17,8 @@
 
 ## 😎 Hey there! Welcome to My Coding Space 🚀
 
-<hr>
-<h3 align="left">✨ Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-</hr>
+> **A programmer was arrested for writing unreadable code. They refused to comment.**
+> 
 
 
 
