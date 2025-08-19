@@ -36,7 +36,7 @@
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com), I dive deep into Full-stack Development and Cybersecurity to build and secure innovative technologies.
+I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com) I dive deep into Full-stack Development and Cybersecurity to build and secure innovative technologies.
 
 <h3> Quick facts </h3> 
 
