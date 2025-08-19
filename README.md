@@ -37,19 +37,22 @@
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com) I dive deep into Full-stack Development and Cybersecurity to build and secure innovative technologies.
+I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com).
 
-<h3> Quick facts </h3> 
+### I dive deep into:
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **I enjoy working on**
-  - 🐍  Python
-  - 🏞️ Computer vision
-  - </> Web development 
-- 🤖 Currently diving learning Artificial Intelligence to stay ahead of the curve.
-- 👨‍💻 Exploring Full-stack Development and building cool stuff.
+- 👨‍💻 Coding & Problem solving to build cool stuff & keep my mind calm 😌.
+- Full-stack Development & Cybersecurity to build & secure innovative technologies.
+- 🤖 Artificial Intelligence & Cybersecurity to stay ahead of the curve.
+
+### Quick facts
+
+
 - 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
-- 😄 Pronouns: Stranger/He/Him/His
-- 🎯 Life Hack: Explore & explode with knowledge
+- 🎯 Life Hack: Explore & explode with knowledge.
+- 💬 Ask me about: Science & Technology | Music | Movies/Shows | Reading
+- 🤔 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+- 😄 Pronouns: He/Him/Stranger
 
 Feel free to connect and let's build something awesome together! ✨
 
