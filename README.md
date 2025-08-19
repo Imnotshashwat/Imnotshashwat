@@ -36,14 +36,16 @@
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm Shashwat, and I'm on a mission to master the digital world. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com), I dive deep into Full-stack Development and Cybersecurity to build and secure innovative technologies.
+I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com), I dive deep into Full-stack Development and Cybersecurity to build and secure innovative technologies.
 
-<h3> Quick facts </h3>
+<h3> Quick facts </h3> 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Exploring new technologies 
-
-- 🤖 Currently diving deep into Artificial Intelligence to stay ahead of the curve.
-- 💻  Exploring Full-stack Development and building cool stuff.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **I enjoy working on**
+  - 🐍  Python
+  - 👁️  Computer vision
+  - </> Web development 
+- 🤖 Currently diving learning Artificial Intelligence to stay ahead of the curve.
+- 👨‍💻 Exploring Full-stack Development and building cool stuff.
 - 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
 - 😄 Pronouns: Stranger/He/Him/His
 
