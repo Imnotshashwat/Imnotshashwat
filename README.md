@@ -1,4 +1,5 @@
-<p align="center">
+<!-- Top Border Animation -->
+
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
@@ -137,6 +138,6 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&width=100"/>
 </p>
 
