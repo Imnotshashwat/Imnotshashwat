@@ -17,7 +17,7 @@
 
 ## 😎 Hey there! Welcome to My Coding Space 🚀
 
-> **A programmer was arrested for writing unreadable code. They refused to comment.**
+> **A programmer was arrested for writing unreadable code. They refused to comment.** 🥲
 > 
 
 
@@ -36,9 +36,7 @@
 
 ## Glad to see you here! 🙂
 
-I'm Shashwat, a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com)
-with a burning passion for Computer Science.           
-I'm a tech enthusiast who loves to code and build. When I'm not solving problems, I'm usually diving into the latest tech trends and innovations.
+I'm Shashwat, a 20-year-old student at [LPU Online](https://lpuonline.com) My curiosity for technology drives me to explore the depths of Full-stack Development and the intricate world of Cybersecurity. I love to build, code, and turn ideas into reality.
 
 <h3> Here's what I'm all about </h3>
 
