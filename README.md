@@ -42,12 +42,13 @@ I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and workin
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **I enjoy working on**
   - 🐍  Python
-  - 👁️  Computer vision
+  - 🏞️ Computer vision
   - </> Web development 
 - 🤖 Currently diving learning Artificial Intelligence to stay ahead of the curve.
 - 👨‍💻 Exploring Full-stack Development and building cool stuff.
 - 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
 - 😄 Pronouns: Stranger/He/Him/His
+- 🎯 Life Hack: Explore & explode with knowledge
 
 Feel free to connect and let's build something awesome together! ✨
 
@@ -130,4 +131,7 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 * **[Calculator](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/calculator.py)** - A simple command line calculator that helps you to calculate.
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 
