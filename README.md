@@ -135,6 +135,13 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 * **[Calculator](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/calculator.py)** - A simple command line calculator that helps you to calculate.
 
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
