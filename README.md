@@ -39,9 +39,9 @@
 
 I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com).
 
-### I dive deep into:
+### 📖  What I am currently learning / improving on
 
-- 👨‍💻 Coding & Problem solving to build cool stuff & keep my mind calm 😌.
+- 👨‍💻 Coding & DSA to build logic & keep my mind calm.
 - Full-stack Development & Cybersecurity to build & secure innovative technologies.
 - 🤖 Artificial Intelligence & Cybersecurity to stay ahead of the curve.
 
