@@ -23,7 +23,7 @@
 
 
 
-![Dreamy Forest Banner](https://raw.githubusercontent.com/Imnotshashwat/Imnotshashwat/refs/heads/main/1000021969.jpg)
+![Dreamy Forest Banner](https://raw.githubusercontent.com/Imnotshashwat/Imnotshashwat/refs/heads/main/Dreamy%20Forest.gif)
 
 
 
