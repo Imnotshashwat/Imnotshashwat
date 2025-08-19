@@ -52,7 +52,7 @@ My name is **Shashwat Dwivedi**, and I'm a Tech Enthusiast passionate about lear
 
 - 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
 - 💬 Ask me about: Science & Technology | Music | Movies/Shows | Reading
-- 🤔 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+- 🤔 You know you're a programmer when you spend a day finding the problem, and then fix it with one line of code.
 - 😄 Pronouns: He/Him/Stranger
 
 Feel free to connect and let's build something awesome together! ✨
