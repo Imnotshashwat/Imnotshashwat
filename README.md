@@ -22,10 +22,11 @@
 > 
 
 
+<div align="center">
 
 ![Dreamy Forest Banner](https://raw.githubusercontent.com/Imnotshashwat/Imnotshashwat/refs/heads/main/Dreamy%20Forest.gif)
 
-
+</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Vibe-Chill%20Mode%20😌-800000?style=for-the-badge&logo=code" alt="Music Vibe"/>
@@ -114,15 +115,8 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 
 
-<h3>🏆 Achievements</h3> 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=darkhub">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=flat">
-    <img src="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=flat" alt="GitHub Trophies">
-  </picture>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
