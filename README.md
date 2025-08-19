@@ -36,7 +36,7 @@
 
 ## Glad to see you here! 🙂
 
-I'm Shashwat, a 20-year-old student at [LPU Online](https://lpuonline.com) My curiosity for technology drives me to explore the depths of Full-stack Development and the intricate world of Cybersecurity. I love to build, code, and turn ideas into reality.
+I'm Shashwat, and I'm on a mission to master the digital world. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com), I dive deep into Full-stack Development and Cybersecurity to build and secure innovative technologies.
 
 <h3> Here's what I'm all about </h3>
 
