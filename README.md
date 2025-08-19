@@ -42,7 +42,7 @@ I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and workin
 ### 📖  What I am currently learning / improving on
 
 - 👨‍💻 Coding & DSA to build logic & keep my mind calm.
-- Full-stack Development & Cybersecurity to build & secure innovative technologies.
+- 💻 Full-stack Development & Cybersecurity to build & secure innovative technologies.
 - 🤖 Artificial Intelligence & Cybersecurity to stay ahead of the curve.
 
 ### Quick facts
