@@ -43,7 +43,7 @@ I'm Shashwat, and I'm on a mission to master the digital world. As a 20-year-old
 - 🤖 Currently diving deep into Artificial Intelligence to stay ahead of the curve.
 - 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
 - 💻   I love exploring new technologies and building cool stuff.
-- 📰   Reading, writing & watching Tech Stuff whenever possible.
+- 📰   Reading, watching Tech Stuff & movies/shows whenever possible.
 - 😄 Pronouns: Stranger/He/Him/His
 
 Feel free to connect and let's build something awesome together! ✨
