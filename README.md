@@ -38,13 +38,13 @@
 
 I'm Shashwat, and I'm on a mission to master the digital world. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com), I dive deep into Full-stack Development and Cybersecurity to build and secure innovative technologies.
 
-<h3> A quick facts </h3>
+<h3> Quick facts </h3>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Exploring new technologies 
 
 - 🤖 Currently diving deep into Artificial Intelligence to stay ahead of the curve.
-- 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
 - 💻  Exploring Full-stack Development and building cool stuff.
+- 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
 - 😄 Pronouns: Stranger/He/Him/His
 
 Feel free to connect and let's build something awesome together! ✨
@@ -60,7 +60,7 @@ Feel free to connect and let's build something awesome together! ✨
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/imnotshashwat)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Imnotshashwat)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Imnotshashwat)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/stdeternal)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.stdeternal@gmail.com)](mailto:defcon.stdeternal@gmail.com)
 
 </div>
 
