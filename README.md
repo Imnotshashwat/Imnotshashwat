@@ -16,7 +16,7 @@
 
 
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hey there! Welcome </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hola Hooman!  </h2>
 
 
 > **A programmer was arrested for writing unreadable code. They refused to comment.** 🥲
@@ -39,7 +39,7 @@
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm **Shashwat**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com).
+My name is **Shashwat Dwivedi**, and I'm a Tech Enthusiast passionate about learning and working with new tech. As a 20-year-old Computer Science student at [LPU Online](https://lpuonline.com).
 
 ### 📖  What I am currently learning / improving on
 
