@@ -90,11 +90,12 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=dark&locale=en&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact" alt="Most Used Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Imnotshashwat&layout=compact&langs_count=20&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Imnotshashwat&layout=compact&langs_count=20&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imnotshashwat&layout=compact&langs_count=20&hide_border=true" alt="Most Used Languages" />
   </picture>
 </p>
+
 
 <p align="center">
   <picture>
