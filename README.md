@@ -90,6 +90,14 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=dark&locale=en&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact" alt="Most Used Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Imnotshashwat&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00bfbf&icon_color=00bfbf&custom_title=Shashwat's%20Coding%20Time&range=last_7_days"
       media="(prefers-color-scheme: dark)"
