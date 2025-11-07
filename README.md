@@ -90,27 +90,40 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=dark&locale=en&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotshashwat&show_icons=true&theme=default&locale=en&layout=compact" alt="Most Used Languages" />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Imnotshashwat&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00bfbf&icon_color=00bfbf&custom_title=Shashwat's%20Coding%20Time&range=last_7_days"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Imnotshashwat&layout=compact&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0366d6&icon_color=0366d6&custom_title=Shashwat's%20Coding%20Time&range=last_7_days"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Imnotshashwat&layout=compact&custom_title=Shashwat's%20Coding%20Time&range=last_7_days" width="70%"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=default">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnotshashwat&theme=default" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=Imnotshashwat&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=Imnotshashwat&count_private=true&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&rank_icon=github&border_radius=20&hide_border=true"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=Imnotshashwat&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true" width="48%"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=Imnotshashwat&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=Imnotshashwat&count_private=true&border_radius=20&ring=000000&stroke=000000&background=ffffff&fire=ff0000&currStreakNum=000000&sideNums=000000&datesside=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border=000000&hide_border=true"/>
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Imnotshashwat&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true" width="48%"/>
   </picture>
 </p>
 
-<p align="center">
+<a href="https://github.com/Imnotshashwat">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=dark&locale=en">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=default&locale=en">
-    <img src="https://github-readme-stats.vercel.app/api?username=imnotshashwat&show_icons=true&theme=default" />
-    </picture>
-</p>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Imnotshashwat&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Shashwat's%20Github%20Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Imnotshashwat&theme=light&hide_border=true&hide_title=false&area=true&custom_title=Shashwat's%20Github%20Contribution%20Graph">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Imnotshashwat&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Shashwat's%20Github%20Contribution%20Graph" width="96%"/>
+  </picture>
+</a>
+
 
 
 
