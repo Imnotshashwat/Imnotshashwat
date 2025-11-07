@@ -138,7 +138,18 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+    <!-- Fallback (just in case someone lives in darkness + light simultaneously) -->
+    <img src="https://github-profile-trophy.vercel.app/?username=Imnotshashwat&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  </picture>
+</p>
 
 
 
