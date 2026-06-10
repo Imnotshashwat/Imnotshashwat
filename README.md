@@ -22,11 +22,7 @@
 > 
 
 
-<div align="center">
 
-![Dreamy Forest Banner](https://raw.githubusercontent.com/Imnotshashwat/Imnotshashwat/refs/heads/main/Dreamy%20Forest.gif)
-
-</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Vibe-Chill%20Mode%20😌-800000?style=for-the-badge&logo=code" alt="Music Vibe"/>
@@ -43,14 +39,12 @@ My name is **Shashwat Dwivedi**, and I'm a Tech Enthusiast passionate about lear
 ### 📖  What I am currently learning / improving on
 
 - 👨‍💻 Coding & DSA to build logic & keep my mind calm.
-- 💻 Full-stack Development & Cybersecurity to build & secure innovative technologies.
 - 🤖 Artificial Intelligence & Cybersecurity to stay ahead of the curve.
 
 ### Quick facts
 
 
 - 🪐 Fueled by the mysteries of the universe. I love exploring Astrophysics.
-- 💬 Ask me about: Science & Technology | Music | Movies/Shows | Reading
 - 🤔 You know you're a programmer when you spend a day finding the problem, and then fix it with one line of code.
 - 😄 Pronouns: He/Him/Stranger
 
@@ -64,9 +58,6 @@ Feel free to connect and let's build something awesome together! ✨
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Imnotshashwat)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Imnotshashwat)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/imnotshashwat)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Imnotshashwat)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Imnotshashwat)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stdeternal@gmail.com)](mailto:stdeternal@gmail.com)
 
 </div>
@@ -77,11 +68,11 @@ Feel free to connect and let's build something awesome together! ✨
 
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,python,html,css,javascript,github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,python,html,css,github" />
 </p>
 
 
-I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity** and **Web Development**. I love experimenting with code to improve my coding skills and solve the real-world problems.
+I'm constantly exploring new technologies, focusing on **AI** and **Web Development**. I love experimenting with code to improve my coding skills and solve the real-world problems.
 
 
 
@@ -148,10 +139,8 @@ I'm constantly exploring new technologies, focusing on **AI**, **Cybersecurity**
 
 
 ## 💡 My Projects
-* **[Expense Tracker Website](https://github.com/Imnotshashwat/bca-first-year-projects/blob/main/expense-tracker-website.html)** - A simple website that helps you to track your expenses.
-
-
-* **[Expense Tracker App](https://github.com/Imnotshashwat/bca-first-year-projects/blob/d0eee11de345ab1099c07cd9371ba1fa4407ac31/expense_tracker.py)** - A simple app that helps you to track your expenses.
+* **[Humanizer Web App](https://imnotshashwat.github.io/Humanizer/)** - Buid a production ready AI text humanization tool integrating the Gemini, Groq, OpenRouter and Claude APIs.
+Deployed on Github Pages with fully client-side architecture; live and publicly accessible.
 
 
 <!-- Snake Game Repo View -->
