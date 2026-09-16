@@ -6,6 +6,9 @@ Computer Science Undergrad @ [LPU](https://www.lpuonline.com/) • Building full
 
 ### 🚀 Featured Projects
 
+- **[Sortify Xtended](https://github.com/Imnotshashwat/Sortify-Xtended)**  
+  A background file organizer module for rooted Android devices (Magisk, KernelSU, APatch). Features automated category routing, duplicate collision protection, scheduling windows, legacy migration, and an offline WebUI dashboard.
+
 - **[Telegram Music Addon](https://github.com/Imnotshashwat/Telegram-Music-Addon)**  
   A self-hosted backend addon for [BitChord](https://github.com/kushagrasinghx/BitChord) that streams lossless FLAC and hi-res audio from Telegram using GramJS (MTProto) and Express. Features HTTP 206 partial content streaming and sub-5ms in-memory track indexing.
 
@@ -16,10 +19,10 @@ Computer Science Undergrad @ [LPU](https://www.lpuonline.com/) • Building full
 
 ### 🛠️ Tech & Tools
 
-- **Languages:** JavaScript (Node.js), Python, HTML5/CSS3, C++
+- **Languages:** JavaScript (Node.js), Python, Shell Scripting (Bash/POSIX sh), HTML5/CSS3, C++
 - **Backend & APIs:** Express.js, REST APIs, MTProto (GramJS), LLM API Integrations
+- **Platforms & Systems:** Android (Magisk / KernelSU / APatch Modules), Linux, Git, GitHub
 - **Core Concepts:** Full-Stack Development, Data Structures & Algorithms, Audio Streaming Protocols
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux
 
 ---
 
