@@ -32,5 +32,9 @@ Computer Science Undergrad @ [LPU](https://www.lpuonline.com/) • Building full
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imnotshashwat&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=Imnotshashwat&layout=compact&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=Imnotshashwat&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=Imnotshashwat&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  </picture>
 </p>
