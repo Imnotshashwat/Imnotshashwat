@@ -1,6 +1,6 @@
-# Shashwat Dwivedi
+### Building full-stack web applications, custom APIs & low-level Android tools.
 
-Computer Science Undergrad @ [LPU](https://www.lpuonline.com/) • Building full-stack web applications, custom APIs & streaming backends.
+Computer Science Undergrad @ Lovely Professional University • Exploring backend systems, generative AI & astrophysics.
 
 ---
 
@@ -23,14 +23,6 @@ Computer Science Undergrad @ [LPU](https://www.lpuonline.com/) • Building full
 - **Backend & APIs:** Express.js, REST APIs, MTProto (GramJS), LLM API Integrations
 - **Platforms & Systems:** Android (Magisk / KernelSU / APatch Modules), Linux, Git, GitHub
 - **Core Concepts:** Full-Stack Development, Data Structures & Algorithms, Audio Streaming Protocols
-
----
-
-### 🌌 About
-
-- 🎓 Pursuing Computer Science at [Lovely Professional University](https://www.lpuonline.com/).
-- 🔭 Passionate about backend systems, generative AI, and astrophysics.
-- 💬 Open to collaborating on open-source tools and backend services.
 
 ---
 
