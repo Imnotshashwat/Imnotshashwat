@@ -1,6 +1,6 @@
 ### Building full-stack web applications, custom APIs & low-level Android tools.
 
-Computer Science Undergrad @ Lovely Professional University • Exploring backend systems, generative AI & astrophysics.
+Computer Science Undergrad • Exploring backend systems, generative AI & astrophysics.
 
 ---
 
